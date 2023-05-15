@@ -18,6 +18,6 @@ class AbstractGenome {
         }
 
         void set(std::vector<T> v) {
-            genome = x;
+            genome = v;
         }
 };

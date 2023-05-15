@@ -1,5 +1,5 @@
 #include <iostream>
-#include "week2day1.h"
+#include "abstractgenome.h"
 #include <vector>
 
 int main() {
